@@ -18,6 +18,8 @@ define('EMBED_FACEBOOK_APP_ID', '179045622276203');
  * Adds the facebook sdk loader to the page render array. Because it is
  * recommended to place the loader after the opening body tag, the region 
  * page-top is used.
+ *
+ * A litle test text
  */
 function embed_facebook_page_build(&$page) {
   $page['page_top']['facebook_root_div'] = array(
