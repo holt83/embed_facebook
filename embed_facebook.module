@@ -69,7 +69,7 @@ function embed_facebook_block_info() {
     'info' => t('Embed Facebook: Like button'),
   );
   $blocks['send'] = array(
-    'info' => t('Embed Facebook: Send button'),
+    'info' => t('Embed Facebook: Send button')
   );
   $blocks['follow'] = array(
     'info' => t('Embed Facebook: Follow button'),  
